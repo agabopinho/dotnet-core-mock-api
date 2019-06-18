@@ -48,7 +48,7 @@ namespace mock_api
                     License = new License
                     {
                         Name = "MIT",
-                        Url = "https://github.com/angular/angular.js/blob/master/LICENSE"
+                        Url = "https://github.com/agabopinho/dotnet-core-mock-api/blob/master/LICENCE"
                     }
                 });
                 
